@@ -1,0 +1,21 @@
+store_id,store_name,region,state,store_type,store_size_sqft
+1,West California #001,West,California,Supercenter,168024
+2,West Arizona #002,West,Arizona,Neighborhood Market,57870
+3,West Washington #003,West,Washington,Supercenter,156140
+4,West California #004,West,California,Neighborhood Market,57856
+5,West Arizona #005,West,Arizona,Supercenter,168231
+6,South Alabama #006,South,Alabama,Supercenter,160189
+7,South Texas #007,South,Texas,Supercenter,156338
+8,South Georgia #008,South,Georgia,Discount Store,115142
+9,South Texas #009,South,Texas,Discount Store,116178
+10,South Georgia #010,South,Georgia,Discount Store,117837
+11,Midwest Ohio #011,Midwest,Ohio,Neighborhood Market,47467
+12,Midwest Illinois #012,Midwest,Illinois,Discount Store,98217
+13,Midwest Wisconsin #013,Midwest,Wisconsin,Neighborhood Market,45329
+14,Midwest Michigan #014,Midwest,Michigan,Supercenter,167496
+15,Midwest Ohio #015,Midwest,Ohio,Neighborhood Market,45354
+16,Northeast Massachusetts #016,Northeast,Massachusetts,Supercenter,191943
+17,Northeast Pennsylvania #017,Northeast,Pennsylvania,Discount Store,82103
+18,Northeast Pennsylvania #018,Northeast,Pennsylvania,Supercenter,154337
+19,Northeast Pennsylvania #019,Northeast,Pennsylvania,Supercenter,182717
+20,Northeast New Jersey #020,Northeast,New Jersey,Supercenter,166162
